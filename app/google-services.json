@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "634899952983",
+    "firebase_url": "https://agrotrack-cb65b-default-rtdb.firebaseio.com",
+    "project_id": "agrotrack-cb65b",
+    "storage_bucket": "agrotrack-cb65b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634899952983:android:60ee9f881e587e22937a12",
+        "android_client_info": {
+          "package_name": "com.luisramos.agrotrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrd7ifgV6yGqCwvM-OWdaK2sLwdT3uf6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634899952983:android:332a399f0d7f93c6937a12",
+        "android_client_info": {
+          "package_name": "com.luisramos.ganadodemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrd7ifgV6yGqCwvM-OWdaK2sLwdT3uf6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
